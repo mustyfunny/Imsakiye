@@ -1,5 +1,7 @@
 # İmsakiye – Ramazan tarihleri
 
+Gizlilik politikası / Privacy policy: [PRIVACY.md](PRIVACY.md)
+
 Bu depo yalnızca İmsakiye uygulamasının okuduğu **ülkelere göre Ramazan başlangıç
 tarihlerini** barındırır: [`ramadan_schedule.json`](ramadan_schedule.json).
 
