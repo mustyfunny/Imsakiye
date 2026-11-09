@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "updated": "2026-11-09",
+  "sources": {
+    "1448/TR": "Diyanet 2027 dini gunler takvimi (aciklama 24.08.2026): 8 Subat 2027 baslangic, 29 gun, bayram 9 Mart"
+  },
+  "years": {
+    "1448": {
+      "countries": {
+        "TR": { "start": "2027-02-08", "days": 29 }
+      }
+    }
+  }
+}
