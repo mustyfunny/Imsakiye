@@ -1,13 +1,13 @@
 # Gizlilik Politikası / Privacy Policy — İmsakiye
 
-Son güncelleme / Last updated: 9 Kasım 2026 / 9 November 2026
+Son güncelleme / Last updated: 10 Kasım 2026 / 10 November 2026
 
 ---
 
 ## Türkçe
 
 İmsakiye ("uygulama"), Ramazan imsak ve iftar vakitlerini gösteren ücretsiz bir
-uygulamadır. Hesap açmanızı istemez; reklam, analitik veya izleme aracı içermez.
+uygulamadır; isteğe bağlı tek seferlik destek ödemeleri dışında ücret alınmaz. Hesap açmanızı istemez; reklam, analitik veya izleme aracı içermez.
 
 ### Topladığımız ve kullandığımız bilgiler
 
@@ -29,6 +29,14 @@ telefonunuzda saklanır. Bildirimler telefonunuzda kurulur; bir sunucudan gönde
 herkese açık bir dosyadan (GitHub, raw.githubusercontent.com) indirir. Bu istekte
 sizinle ilgili hiçbir bilgi gönderilmez; ancak her internet isteğinde olduğu gibi
 GitHub, IP adresinizi teknik kayıtlarında tutabilir.
+
+### Uygulama içi destek ödemeleri
+
+"Destek ol" bölümündeki tek seferlik ödemeler tamamen **Google Play** (Android) veya
+**App Store** (iOS) tarafından işlenir. Kart ya da ödeme bilgileriniz bize ulaşmaz;
+uygulama yalnızca ödemenin tamamlandığı bilgisini alır ve teşekkür mesajı göstermek
+için "destekçi" işaretini **yalnızca telefonunuzda** saklar. Ödeme kayıtları
+Google'ın veya Apple'ın gizlilik politikasına tabidir.
 
 ### Paylaşım
 
@@ -79,6 +87,14 @@ from a server.
 from a public file on GitHub (raw.githubusercontent.com). No information about
 you is sent with this request; like any web request, GitHub may record your IP
 address in its technical logs.
+
+### In-app support payments
+
+One-time payments in the "Support" section are processed entirely by **Google Play**
+(Android) or the **App Store** (iOS). Your card and payment details never reach us;
+the app only learns that a payment went through and stores a "supporter" flag
+**only on your phone** to show a thank-you message. Payment records are governed
+by Google's or Apple's privacy policy.
 
 ### Sharing
 
